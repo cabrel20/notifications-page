@@ -1,0 +1,62 @@
+{
+  "notifications": [
+    {
+      "id": "i1",
+      "name": " Mark Webber ",
+      "actions": "reacted to your recent post",
+      "message": " My first tournament today!",
+      "time": "1m ago",
+      "avatar": "avatar-mark-webber.webp",
+      "noRead": "true"
+    },
+    {
+      "id": "i2",
+      "name": " Angela Gray ",
+      "actions": "followed you",
+      "time": "5m ago ",
+      "avatar": "avatar-angela-gray.webp",
+      "noRead": "true"
+    },
+    {
+      "id": "i3",
+      "name": "  Jacob Thompson ",
+      "actions": " has joined your group",
+      "message": " Chess Club ",
+      "time": " 1 day ago",
+      "avatar": "avatar-jacob-thompson.webp",
+      "noRead": "true"
+    },
+    {
+      "id": "i4",
+      "name": " Rizky Hasanuddin ",
+      "actions": " sent you a private message",
+      "time": " 5 days ago",
+      "response": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "avatar": "avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": "i5",
+      "name": "  Kimberly Smith ",
+      "actions": " commented on your picture",
+      "image": "image-chess.webp",
+      "time": "1 week ago",
+      "avatar": "avatar-kimberly-smith.webp"
+    },
+    {
+      "id": "i6",
+      "name": " Nathan Peterson ",
+      "actions": "reacted to your recent post",
+      "message": "5 end-game strategies to increase your win rate",
+      "time": " 2 weeks ago",
+      "avatar": "avatar-nathan-peterson.webp"
+    },
+    {
+      "id": "i7",
+      "name": "  Anna Kim ",
+      "actions": " left the group",
+      "message": " Chess Club",
+      "time": " 2 weeks ago",
+      "avatar": "avatar-anna-kim.webp"
+    }
+  ]
+}
